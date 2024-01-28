@@ -16,3 +16,27 @@ The data contain only numerical input variables, and that is nothing but a PCA(P
 The only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-sensitive learning. 
 The Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 for Legitimate transanctions.
 
+
+# Steps of creating model
+1) Exploratory Data Analysis(EDA)
+2) Data Preparation
+3) Training and Testing data
+4) Fit the Model
+5) Evaluate the Model
+6) Deployment
+
+# Libraries
+
+1) Pandas
+2) Numpy
+3) Matplotlib.pyplot
+4) Searborn
+5) Scikit-Learn
+
+# Used Model
+
+1) Logistic Regression Model
+2) Random Forest Model
+3) XGBoost Model
+
+
