@@ -25,7 +25,7 @@ The Feature 'Class' is the response variable and it takes value 1 in case of fra
 5) Evaluate the Model
 6) Deployment
 
-# Libraries
+# List of Imported Libraries
 
 1) Pandas
 2) Numpy
@@ -33,7 +33,7 @@ The Feature 'Class' is the response variable and it takes value 1 in case of fra
 4) Searborn
 5) Scikit-Learn
 
-# Used Model
+# List of used Models
 
 1) Logistic Regression Model
 2) Random Forest Model
